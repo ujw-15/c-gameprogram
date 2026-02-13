@@ -7,13 +7,19 @@
       "RelativeMoniker": "D:0:0:{CCD1585F-37D7-4581-A9DA-2695B7392FAF}|prograam.vcxproj|solutionrelative:prograam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1023278C-9EDC-4879-9EBB-35DA11F316DD}|..\\class3th constructor \u0026 destructor\\class3th constructor \u0026 destructor.vcxproj|C:\\Users\\ujw12\\OneDrive\\Desktop\\c-gameprogram\\class3th constructor \u0026 destructor\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1023278C-9EDC-4879-9EBB-35DA11F316DD}|..\\class3th constructor \u0026 destructor\\class3th constructor \u0026 destructor.vcxproj|C:\\Users\\ujw12\\OneDrive\\Desktop\\c-gameprogram\\class3th constructor \u0026 destructor\\class3th constructor \u0026 destructor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A95FC3EA-AF5E-4067-AC97-9B9C33A851E6}|..\\class2th (class)\\class2th (class).vcxproj|C:\\Users\\ujw12\\OneDrive\\Desktop\\c-gameprogram\\class2th (class)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2DF56F26-1854-4D7C-82F0-4673F1D6E2B2}|..\\class1th (stream)\\class1th (stream).vcxproj|C:\\Users\\ujw12\\OneDrive\\Desktop\\c-gameprogram\\class1th (stream)\\class1th (stream).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2DF56F26-1854-4D7C-82F0-4673F1D6E2B2}|..\\class1th (stream)\\class1th (stream).vcxproj|C:\\Users\\ujw12\\OneDrive\\Desktop\\c-gameprogram\\class1th (stream)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A95FC3EA-AF5E-4067-AC97-9B9C33A851E6}|..\\class2th (class)\\class2th (class).vcxproj|C:\\Users\\ujw12\\OneDrive\\Desktop\\c-gameprogram\\class2th (class)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A95FC3EA-AF5E-4067-AC97-9B9C33A851E6}|..\\class2th (class)\\class2th (class).vcxproj|C:\\Users\\ujw12\\OneDrive\\Desktop\\c-gameprogram\\class2th (class)\\class2th (class).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -26,11 +32,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "source.cpp",
+              "DocumentMoniker": "C:\\Users\\ujw12\\OneDrive\\Desktop\\c-gameprogram\\class3th constructor \u0026 destructor\\source.cpp",
+              "RelativeDocumentMoniker": "..\\class3th constructor \u0026 destructor\\source.cpp",
+              "ToolTip": "C:\\Users\\ujw12\\OneDrive\\Desktop\\c-gameprogram\\class3th constructor \u0026 destructor\\source.cpp",
+              "RelativeToolTip": "..\\class3th constructor \u0026 destructor\\source.cpp",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAwF8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-13T12:40:57.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "class3th constructor \u0026 destructor.cpp",
+              "DocumentMoniker": "C:\\Users\\ujw12\\OneDrive\\Desktop\\c-gameprogram\\class3th constructor \u0026 destructor\\class3th constructor \u0026 destructor.cpp",
+              "RelativeDocumentMoniker": "..\\class3th constructor \u0026 destructor\\class3th constructor \u0026 destructor.cpp",
+              "ToolTip": "C:\\Users\\ujw12\\OneDrive\\Desktop\\c-gameprogram\\class3th constructor \u0026 destructor\\class3th constructor \u0026 destructor.cpp",
+              "RelativeToolTip": "..\\class3th constructor \u0026 destructor\\class3th constructor \u0026 destructor.cpp",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAwIAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-13T12:40:30.188Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -42,11 +74,12 @@
               "RelativeToolTip": "..\\class2th (class)\\source.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-11T12:39:23.501Z"
+              "WhenOpened": "2026-02-11T12:39:23.501Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "class2th (class).cpp",
               "DocumentMoniker": "C:\\Users\\ujw12\\OneDrive\\Desktop\\c-gameprogram\\class2th (class)\\class2th (class).cpp",
               "RelativeDocumentMoniker": "..\\class2th (class)\\class2th (class).cpp",
@@ -58,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "source.cpp",
               "DocumentMoniker": "C:\\Users\\ujw12\\OneDrive\\Desktop\\c-gameprogram\\class1th (stream)\\source.cpp",
               "RelativeDocumentMoniker": "..\\class1th (stream)\\source.cpp",
@@ -70,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "class1th (stream).cpp",
               "DocumentMoniker": "C:\\Users\\ujw12\\OneDrive\\Desktop\\c-gameprogram\\class1th (stream)\\class1th (stream).cpp",
               "RelativeDocumentMoniker": "..\\class1th (stream)\\class1th (stream).cpp",
@@ -78,7 +111,8 @@
               "RelativeToolTip": "..\\class1th (stream)\\class1th (stream).cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-11T11:08:50.577Z"
+              "WhenOpened": "2026-02-11T11:08:50.577Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -88,7 +122,7 @@
               "RelativeDocumentMoniker": "prograam.cpp",
               "ToolTip": "C:\\Users\\ujw12\\OneDrive\\Desktop\\c-gameprogram\\prograam\\prograam.cpp",
               "RelativeToolTip": "prograam.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEoAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-10T11:04:47.953Z",
               "EditorCaption": ""
