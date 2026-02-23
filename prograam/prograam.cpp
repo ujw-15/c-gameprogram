@@ -1,6 +1,8 @@
 ﻿#include "stdafx.h"
 #include "Message.h"
-
+#include "Strength.h"
+#include "Agility.h"
+#include "Intelligence.h"
 
 int main()
 {
@@ -13,17 +15,30 @@ int main()
 	// 수로 구분하여 여러 개를 선언할 수 있는 기능입니다.
 
 	
-	Message msg;
-
-	msg.Send("yui");
-	msg.Send(55);
-	msg.Send("Warning", 500);
+	// Message msg;
+	// 
+	// msg.Send(55);
+	// msg.Send("This program cannot be executed.");
+	// msg.Send("Identify the issue frquency signal : ", 60);
 
 	// 함수의 오버로딩의 경우 함수의 매개 변수에 전달하는 인수의
 	// 형태를 보고 호출하므로, 반환형으로 함수의 오버로딩을 생성할 수 있습니다.
 
 #pragma endregion
 
+#pragma region 오버라이딩
+	// 상위 클래스의 함수를 하위 클래스에서 재정의하여 사용하는 방법입니다.
+
+#pragma endregion
+
+
+#pragma region 가상 함수
+	// 실행 시간에 상위 클래스에 대한 참조로
+	// 하위 클래스에 재정의된 함수를 호출하는 함수입니다.
+
+	// 
+
+#pragma endregion
 
 	// 다형성은 컴파일 시점에 함수와 속성이 결정되는
 	// 정적 바인딩을 하지 않고, 실행 시간에 함수와

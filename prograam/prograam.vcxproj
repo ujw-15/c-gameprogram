@@ -132,14 +132,22 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Agility.cpp" />
+    <ClCompile Include="Intelligence.cpp" />
     <ClCompile Include="Message.cpp" />
     <ClCompile Include="prograam.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Use</PrecompiledHeader>
     </ClCompile>
+    <ClCompile Include="Stat.cpp" />
+    <ClCompile Include="Strength.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Agility.h" />
+    <ClInclude Include="Intelligence.h" />
     <ClInclude Include="Message.h" />
+    <ClInclude Include="Stat.h" />
     <ClInclude Include="stdafx.h" />
+    <ClInclude Include="Strength.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
