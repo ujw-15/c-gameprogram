@@ -3,6 +3,9 @@
 class Intelligence : public Stat
 {
 public:
+    Intelligence();
+    ~Intelligence();
+
     void Enhance();
 };
 

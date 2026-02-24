@@ -29,15 +29,99 @@ int main()
 #pragma region 오버라이딩
 	// 상위 클래스의 함수를 하위 클래스에서 재정의하여 사용하는 방법입니다.
 
+	//Stat* stat = nullptr;
+	//stat = new strength();
+	//stat->Enhance();
+	//delete stat;
+	//
+	//stat = new Agility();
+	//stat->Enhance();
+	//delete stat;
+	//
+	//stat = new Intelligence();
+	//stat->Enhance();
+	//delete stat;
+
 #pragma endregion
 
 
 #pragma region 가상 함수
 	// 실행 시간에 상위 클래스에 대한 참조로
 	// 하위 클래스에 재정의된 함수를 호출하는 함수입니다.
+	Stat * ptr = nullptr;
+	char num;
+	int a = 0, b = 0, c = 0;
+	
+	cout << "1,2,3 (b:종료)" << endl;
+	while (true)
+	{
+		
 
-	// 
+		cin >> num;
+		if (num == '1')
+		{
+			a++;
+			
+			ptr = new strength;
 
+			ptr->Enhance();
+
+			cout << "힘:" << a << " "
+				<< "민첩:" << b << " "
+				<< "지능:" << c << endl;
+
+			delete ptr;
+		}
+		else if (num == '2')
+		{
+			b++;
+			
+			ptr = new Agility;
+
+			ptr->Enhance();
+
+			cout << "힘:" << a << " "
+				<< "민첩:" << b << " "
+				<< "지능:" << c << endl;
+
+			delete ptr;
+		}
+		else if (num == '3')
+		{
+			c++;
+			
+			ptr = new Intelligence;
+
+			ptr->Enhance();
+
+			cout << "힘:" << a << " "
+				<< "민첩:" << b << " "
+				<< "지능:" << c << endl;
+
+			delete ptr;
+		}
+		else if (num == 'b' || num == 'B')
+		{
+			cout << "종료합니다.";
+			break;
+		}
+		else
+		{
+			cout << "잘못된 입력. 다시 입력하시오.\n";
+			
+		}
+		// 가상 함수는 한 개 이상의 가상 함수를 포함하는 클래스가
+		// 있을 떄 객체 주소에 가상 함수 테이블을 추가합니다.
+	}
+	
+
+	
+
+
+
+	// 가상 함수의 경우 가상 함수 테이블을 사용하여 호출되는
+	// 함수를 실행 시간에 결정하며, 정적으로 선언된 함수는
+	// 가상 함수로 선언할 수 있습니다,
 #pragma endregion
 
 	// 다형성은 컴파일 시점에 함수와 속성이 결정되는

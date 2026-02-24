@@ -3,40 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\ujw12\\OneDrive\\Desktop\\c-gameprogram\\prograam\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CCD1585F-37D7-4581-A9DA-2695B7392FAF}|prograam.vcxproj|C:\\Users\\ujw12\\OneDrive\\Desktop\\c-gameprogram\\prograam\\strength.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CCD1585F-37D7-4581-A9DA-2695B7392FAF}|prograam.vcxproj|solutionrelative:strength.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCD1585F-37D7-4581-A9DA-2695B7392FAF}|prograam.vcxproj|C:\\Users\\ujw12\\OneDrive\\Desktop\\c-gameprogram\\prograam\\Stat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CCD1585F-37D7-4581-A9DA-2695B7392FAF}|prograam.vcxproj|solutionrelative:Stat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCD1585F-37D7-4581-A9DA-2695B7392FAF}|prograam.vcxproj|C:\\Users\\ujw12\\OneDrive\\Desktop\\c-gameprogram\\prograam\\Intelligence.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CCD1585F-37D7-4581-A9DA-2695B7392FAF}|prograam.vcxproj|solutionrelative:Intelligence.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCD1585F-37D7-4581-A9DA-2695B7392FAF}|prograam.vcxproj|C:\\Users\\ujw12\\OneDrive\\Desktop\\c-gameprogram\\prograam\\Stat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CCD1585F-37D7-4581-A9DA-2695B7392FAF}|prograam.vcxproj|solutionrelative:Stat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CCD1585F-37D7-4581-A9DA-2695B7392FAF}|prograam.vcxproj|C:\\Users\\ujw12\\OneDrive\\Desktop\\c-gameprogram\\prograam\\prograam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CCD1585F-37D7-4581-A9DA-2695B7392FAF}|prograam.vcxproj|solutionrelative:prograam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCD1585F-37D7-4581-A9DA-2695B7392FAF}|prograam.vcxproj|C:\\Users\\ujw12\\OneDrive\\Desktop\\c-gameprogram\\prograam\\Intelligence.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CCD1585F-37D7-4581-A9DA-2695B7392FAF}|prograam.vcxproj|solutionrelative:Intelligence.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCD1585F-37D7-4581-A9DA-2695B7392FAF}|prograam.vcxproj|C:\\Users\\ujw12\\OneDrive\\Desktop\\c-gameprogram\\prograam\\Agility.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CCD1585F-37D7-4581-A9DA-2695B7392FAF}|prograam.vcxproj|solutionrelative:Agility.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{CCD1585F-37D7-4581-A9DA-2695B7392FAF}|prograam.vcxproj|C:\\Users\\ujw12\\OneDrive\\Desktop\\c-gameprogram\\prograam\\Strength.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CCD1585F-37D7-4581-A9DA-2695B7392FAF}|prograam.vcxproj|solutionrelative:Strength.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CCD1585F-37D7-4581-A9DA-2695B7392FAF}|prograam.vcxproj|C:\\Users\\ujw12\\OneDrive\\Desktop\\c-gameprogram\\prograam\\Strength.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CCD1585F-37D7-4581-A9DA-2695B7392FAF}|prograam.vcxproj|solutionrelative:Strength.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CCD1585F-37D7-4581-A9DA-2695B7392FAF}|prograam.vcxproj|C:\\Users\\ujw12\\OneDrive\\Desktop\\c-gameprogram\\prograam\\Stat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CCD1585F-37D7-4581-A9DA-2695B7392FAF}|prograam.vcxproj|solutionrelative:Stat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD1585F-37D7-4581-A9DA-2695B7392FAF}|prograam.vcxproj|C:\\Users\\ujw12\\OneDrive\\Desktop\\c-gameprogram\\prograam\\Stat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CCD1585F-37D7-4581-A9DA-2695B7392FAF}|prograam.vcxproj|solutionrelative:Stat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD1585F-37D7-4581-A9DA-2695B7392FAF}|prograam.vcxproj|C:\\Users\\ujw12\\OneDrive\\Desktop\\c-gameprogram\\prograam\\Agility.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CCD1585F-37D7-4581-A9DA-2695B7392FAF}|prograam.vcxproj|solutionrelative:Agility.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD1585F-37D7-4581-A9DA-2695B7392FAF}|prograam.vcxproj|C:\\Users\\ujw12\\OneDrive\\Desktop\\c-gameprogram\\prograam\\Intelligence.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CCD1585F-37D7-4581-A9DA-2695B7392FAF}|prograam.vcxproj|solutionrelative:Intelligence.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CCD1585F-37D7-4581-A9DA-2695B7392FAF}|prograam.vcxproj|C:\\Users\\ujw12\\OneDrive\\Desktop\\c-gameprogram\\prograam\\Agility.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CCD1585F-37D7-4581-A9DA-2695B7392FAF}|prograam.vcxproj|solutionrelative:Agility.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD1585F-37D7-4581-A9DA-2695B7392FAF}|prograam.vcxproj|C:\\Users\\ujw12\\OneDrive\\Desktop\\c-gameprogram\\prograam\\Intelligence.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CCD1585F-37D7-4581-A9DA-2695B7392FAF}|prograam.vcxproj|solutionrelative:Intelligence.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CCD1585F-37D7-4581-A9DA-2695B7392FAF}|prograam.vcxproj|C:\\Users\\ujw12\\OneDrive\\Desktop\\c-gameprogram\\prograam\\Message.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -82,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 18,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,91 +90,91 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Intelligence.cpp",
               "DocumentMoniker": "C:\\Users\\ujw12\\OneDrive\\Desktop\\c-gameprogram\\prograam\\Intelligence.cpp",
               "RelativeDocumentMoniker": "Intelligence.cpp",
               "ToolTip": "C:\\Users\\ujw12\\OneDrive\\Desktop\\c-gameprogram\\prograam\\Intelligence.cpp",
               "RelativeToolTip": "Intelligence.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-23T12:03:37.012Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Strength.cpp",
               "DocumentMoniker": "C:\\Users\\ujw12\\OneDrive\\Desktop\\c-gameprogram\\prograam\\Strength.cpp",
               "RelativeDocumentMoniker": "Strength.cpp",
               "ToolTip": "C:\\Users\\ujw12\\OneDrive\\Desktop\\c-gameprogram\\prograam\\Strength.cpp",
               "RelativeToolTip": "Strength.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwMAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-23T12:02:06.04Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Stat.cpp",
               "DocumentMoniker": "C:\\Users\\ujw12\\OneDrive\\Desktop\\c-gameprogram\\prograam\\Stat.cpp",
               "RelativeDocumentMoniker": "Stat.cpp",
               "ToolTip": "C:\\Users\\ujw12\\OneDrive\\Desktop\\c-gameprogram\\prograam\\Stat.cpp",
               "RelativeToolTip": "Stat.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwMAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-23T12:00:13.882Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Intelligence.h",
               "DocumentMoniker": "C:\\Users\\ujw12\\OneDrive\\Desktop\\c-gameprogram\\prograam\\Intelligence.h",
               "RelativeDocumentMoniker": "Intelligence.h",
               "ToolTip": "C:\\Users\\ujw12\\OneDrive\\Desktop\\c-gameprogram\\prograam\\Intelligence.h",
               "RelativeToolTip": "Intelligence.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-02-23T11:41:36.363Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Agility.h",
               "DocumentMoniker": "C:\\Users\\ujw12\\OneDrive\\Desktop\\c-gameprogram\\prograam\\Agility.h",
               "RelativeDocumentMoniker": "Agility.h",
               "ToolTip": "C:\\Users\\ujw12\\OneDrive\\Desktop\\c-gameprogram\\prograam\\Agility.h",
               "RelativeToolTip": "Agility.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-02-23T11:41:15.143Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Strength.h",
               "DocumentMoniker": "C:\\Users\\ujw12\\OneDrive\\Desktop\\c-gameprogram\\prograam\\Strength.h",
               "RelativeDocumentMoniker": "Strength.h",
               "ToolTip": "C:\\Users\\ujw12\\OneDrive\\Desktop\\c-gameprogram\\prograam\\Strength.h",
               "RelativeToolTip": "Strength.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-02-23T11:40:39.556Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Stat.h",
               "DocumentMoniker": "C:\\Users\\ujw12\\OneDrive\\Desktop\\c-gameprogram\\prograam\\Stat.h",
               "RelativeDocumentMoniker": "Stat.h",
               "ToolTip": "C:\\Users\\ujw12\\OneDrive\\Desktop\\c-gameprogram\\prograam\\Stat.h",
               "RelativeToolTip": "Stat.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-02-23T11:29:15.476Z",
               "EditorCaption": ""
@@ -189,8 +189,7 @@
               "RelativeToolTip": "Message.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-20T12:09:48.378Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-20T12:09:48.378Z"
             },
             {
               "$type": "Document",
@@ -202,8 +201,7 @@
               "RelativeToolTip": "stdafx.h",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-20T12:05:17.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-20T12:05:17.169Z"
             },
             {
               "$type": "Document",
@@ -303,13 +301,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "prograam.cpp",
               "DocumentMoniker": "C:\\Users\\ujw12\\OneDrive\\Desktop\\c-gameprogram\\prograam\\prograam.cpp",
               "RelativeDocumentMoniker": "prograam.cpp",
               "ToolTip": "C:\\Users\\ujw12\\OneDrive\\Desktop\\c-gameprogram\\prograam\\prograam.cpp",
               "RelativeToolTip": "prograam.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-10T11:04:47.953Z",
               "EditorCaption": ""
@@ -324,18 +322,17 @@
               "RelativeToolTip": "Message.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-20T12:10:19.254Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-20T12:10:19.254Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Agility.cpp",
               "DocumentMoniker": "C:\\Users\\ujw12\\OneDrive\\Desktop\\c-gameprogram\\prograam\\Agility.cpp",
               "RelativeDocumentMoniker": "Agility.cpp",
               "ToolTip": "C:\\Users\\ujw12\\OneDrive\\Desktop\\c-gameprogram\\prograam\\Agility.cpp",
               "RelativeToolTip": "Agility.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-23T12:02:35.663Z",
               "EditorCaption": ""

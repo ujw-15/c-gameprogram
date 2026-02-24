@@ -2,6 +2,10 @@
 class Stat
 {
 public:
-	void Enhance();
+	Stat();
+	virtual ~Stat();
+
+	virtual	void Enhance();
+
 };
 

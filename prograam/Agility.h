@@ -3,6 +3,9 @@
 class Agility : public Stat
 {
 public:
+    Agility();
+    ~Agility();
+
     void Enhance();
 };
 
